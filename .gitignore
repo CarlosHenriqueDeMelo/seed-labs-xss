@@ -1,0 +1,4 @@
+*.zip
+mysql_data/
+__pycache__/
+*.pyc
